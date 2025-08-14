@@ -18,7 +18,7 @@ let novoH1 = document.createElement("h1")
 novoH1.textContent = "Minha Atividade DOM"
 
 // 6. Adicione o h1 ao body
-body.appendChild(novo h1)
+body.appendChild(novoH1)
 
 // ==================================================
 // ==> MODIFICAR ESTILOS <==
