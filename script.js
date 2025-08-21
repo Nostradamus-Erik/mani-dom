@@ -7,7 +7,7 @@ let body = document.body
 let paragrafos = document.getElementsByTagName("p")
 
 // 3. Selecione o elemento com id "meuId" (crie este elemento no HTML se necessário)
-let elementoPorId = document.getElementById("meuID")
+let elementoPorId = document.getElementById("meuId")
 
 // ==================================================
 // ==> CRIAR E ADICIONAR ELEMENTOS
