@@ -33,8 +33,8 @@ for (let p of paragrafos) {
 // ==> MANIPULAR ATRIBUTOS <==
 // 9. Adicione uma classe "destaque" ao elemento com id "meuId"
 elementoPorId.
-document.getElementById("meu id").classlist("destaque")
+document.getElementById("meu Id").classlist("destaque")
 // 10. Adicione um atributo "title" com valor "Elemento destacado" ao mesmo elemento
 elementoPorId.
-document.getElementById("meu id").setAtribute('title', 'Elemento destacado') 
+document.getElementById("meu Id").setAtribute('title', 'Elemento destacado') 
 
